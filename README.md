@@ -19,7 +19,7 @@ Built with **Next.js 14** and **TypeScript**, this project focuses on Core Web V
 * **Frontend:** Next.js (App Router), TypeScript, Tailwind CSS.
 * **Backend:** Node.js (API Routes).
 * **State:** React Context for cart management.
-* **Design:** Mobile-first, responsive UI with a focus on micro-interactions.
+* **Design:** Responsive UI adapting to different screen sizes.
 
 ## 🚀 Key Features
 
@@ -27,7 +27,7 @@ Built with **Next.js 14** and **TypeScript**, this project focuses on Core Web V
 - [x] **Dynamic Catalog:** Category filtering and product routing using Next.js dynamic segments.
 - [x] **Robust Data Modeling:** Strict usage of **Models** (Interfaces) for Products, Orders, and Users to ensure data consistency.
 - [x] **Cart Logic:** Persistent state management with local storage synchronization.
-- [x] **Responsive Design:** Fully fluid layout adapting from mobile to desktop.
+- [x] **Responsive Layout:** Fluid design that works across standard device widths.
 
 ## 💻 Code Structure
 
