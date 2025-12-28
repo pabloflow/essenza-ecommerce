@@ -4,6 +4,8 @@
 
 ![Status](https://img.shields.io/badge/Status-MVP_Showcase-blue) ![Stack](https://img.shields.io/badge/Stack-Next.js_14_%7C_TypeScript-black)
 
+![Essenza Homepage Preview](screenshot.png)
+
 ## ⚡ Overview
 
 **Essenza** is a high-performance e-commerce platform designed for luxury retail. The goal was to build a shopping experience that feels as premium as the products it sells—fast, seamless, and aesthetically pleasing.
